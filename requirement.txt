@@ -1,0 +1,6 @@
+pandas==0.25.3
+joblib
+scikit-learn==0.22.2
+imblearn
+lightgbm==2.3.0
+tqdm==4.41.1
