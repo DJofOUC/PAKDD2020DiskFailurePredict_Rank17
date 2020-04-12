@@ -8,3 +8,5 @@ The top2% solution of PAKDD2020 for Disk Failure Predict
 
 3.python3 train.py test 1
 用来model=1线上提交，会生成模型文件
+
+方案详情见：https://zhuanlan.zhihu.com/p/129208515
