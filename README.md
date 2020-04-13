@@ -11,3 +11,4 @@ The top2% solution of PAKDD2020 for Disk Failure Predict
 用来model=1线上提交，会生成模型文件
 
 方案详情见：https://zhuanlan.zhihu.com/p/129677895
+（欢迎关注和投稿知乎“kaggle代码复现”专栏，大家一起学习）
